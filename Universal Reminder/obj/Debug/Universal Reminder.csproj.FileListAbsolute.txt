@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\bin\Debug\Universal Reminder.exe.config
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\bin\Debug\Universal Reminder.exe
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\bin\Debug\Universal Reminder.pdb
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal Reminder.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal_Reminder.Main.resources
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal_Reminder.Properties.Resources.resources
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal Reminder.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal Reminder.exe
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal Reminder.pdb
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\obj\Debug\Universal_Reminder.Config.resources
+C:\Users\Michael\Documents\Project Files\Universal Reminder\Universal Reminder\bin\Debug\Tulpep.NotificationWindow.dll
